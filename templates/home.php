@@ -63,7 +63,7 @@
 		<!-- Three -->
 			<section id="three" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/pic03.jpg" alt="" /></span>
+					<span class="image fit primary"><img src="<?php echo( $post -> avatar ); ?>" alt="" /></span>
 					<div class="content">
 						<header class="major">
 							<h2>One more thing</h2>
